@@ -54,7 +54,7 @@
     </item>
     
     <item>
-      <title>Un article **original** en effet</title>
+      <title>Un article &lt;strong&gt;original&lt;/strong&gt; en effet</title>
       <link>https://aurelberra.github.io/publications/article/</link>
       
       <pubDate>2017-01-07">7 janvier 2017</pubDate>
@@ -87,7 +87,7 @@
     </item>
     
     <item>
-      <title>Essai 2 et *plus intéressant*</title>
+      <title>Essai 2 et &lt;em&gt;plus intéressant&lt;/em&gt;</title>
       <link>https://aurelberra.github.io/blog/2016/12/essai-2-et-plus-int%C3%A9ressant/</link>
       
       <pubDate>2016-12-12">12 décembre 2016</pubDate>
