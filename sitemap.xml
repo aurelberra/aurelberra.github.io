@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://aurelberra.github.io/talks/2017/hn_critique_2/</loc>
+    <loc>https://aurelberra.github.io/interventions/2017/hn_critique_2/</loc>
     <lastmod>2017-02-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aurelberra.github.io/teaching/2016/hn1/</loc>
+    <loc>https://aurelberra.github.io/enseignement/2016/hn1/</loc>
     <lastmod>2017-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aurelberra.github.io/teaching/2017/crct/</loc>
+    <loc>https://aurelberra.github.io/enseignement/2017/crct/</loc>
     <lastmod>2017-01-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -22,17 +22,17 @@
   </url>
   
   <url>
-    <loc>https://aurelberra.github.io/writing/livre/</loc>
+    <loc>https://aurelberra.github.io/publications/livre/</loc>
     <lastmod>2017-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aurelberra.github.io/writing/article/</loc>
+    <loc>https://aurelberra.github.io/publications/article/</loc>
     <lastmod>2017-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aurelberra.github.io/teaching/2017/hn3/</loc>
+    <loc>https://aurelberra.github.io/enseignement/2017/hn3/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -47,12 +47,12 @@
   </url>
   
   <url>
-    <loc>https://aurelberra.github.io/teaching/2016/hn2/</loc>
+    <loc>https://aurelberra.github.io/enseignement/2016/hn2/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aurelberra.github.io/talks/2017/hn_critique_1/</loc>
+    <loc>https://aurelberra.github.io/interventions/2017/hn_critique_1/</loc>
     <lastmod>2016-08-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -69,19 +69,19 @@
   </url>
   
   <url>
-    <loc>https://aurelberra.github.io/talks/</loc>
-    <lastmod>2017-02-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://aurelberra.github.io/teaching/</loc>
+    <loc>https://aurelberra.github.io/enseignement/</loc>
     <lastmod>2017-02-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://aurelberra.github.io/writing/</loc>
+    <loc>https://aurelberra.github.io/interventions/</loc>
+    <lastmod>2017-02-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aurelberra.github.io/publications/</loc>
     <lastmod>2017-01-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
