@@ -4,8 +4,9 @@
     <title>Enseignement sur Aurélien Berra</title>
     <link>https://aurelberra.github.io/enseignement/index.xml</link>
     <description>Publications récentes dans Enseignement sur Aurélien Berra</description>
-    <language>fr</language>
-    <author>Aurélien Berra</author>
+    <language>fr-fr</language>
+    <author>aurelien.berra@u-paris10.fr</author>
+    
     <rights>Copyright (c) Aurélien Berra.</rights>
     <lastBuildDate>2017-02-07">7 février 2017</lastBuildDate>
     <atom:link href="/enseignement/index.xml" rel="self" type="application/rss+xml" />

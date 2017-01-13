@@ -4,8 +4,9 @@
     <title>Publications sur Aurélien Berra</title>
     <link>https://aurelberra.github.io/publications/index.xml</link>
     <description>Publications récentes dans Publications sur Aurélien Berra</description>
-    <language>fr</language>
-    <author>Aurélien Berra</author>
+    <language>fr-fr</language>
+    <author>aurelien.berra@u-paris10.fr</author>
+    
     <rights>Copyright (c) Aurélien Berra.</rights>
     <lastBuildDate>2017-01-07">7 janvier 2017</lastBuildDate>
     <atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />

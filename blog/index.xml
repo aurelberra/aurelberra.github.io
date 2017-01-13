@@ -4,8 +4,9 @@
     <title>Blog sur Aurélien Berra</title>
     <link>https://aurelberra.github.io/blog/index.xml</link>
     <description>Publications récentes dans Blog sur Aurélien Berra</description>
-    <language>fr</language>
-    <author>Aurélien Berra</author>
+    <language>fr-fr</language>
+    <author>aurelien.berra@u-paris10.fr</author>
+    
     <rights>Copyright (c) Aurélien Berra.</rights>
     <lastBuildDate>2016-12-12">12 décembre 2016</lastBuildDate>
     <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
