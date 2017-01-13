@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Enseignement sur https://aurelberra.github.io</title> 
+    <title>Enseignement sur Aurélien Berra</title>
     <link>https://aurelberra.github.io/enseignement/index.xml</link>
-    <language>fr-fr</language>
-    <author>Aurélien Berra</author>
-    <rights>Copyright (c) Aurélien Berra.</rights>
-    
-    <updated>2017-02-07">7 février 2017</updated>
+    <description>Publications récentes dans Enseignement sur Aurélien Berra</description>
+    <language>Page(&#34;Enseignement&#34;)</language>
+    <atom:link href="/enseignement/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Humanités numériques 1</title>
       <link>https://aurelberra.github.io/enseignement/2016/hn1/</link>
-      
       <pubDate>2017-02-07">7 février 2017</pubDate>
       <author>Aurélien Berra</author>
       <guid>https://aurelberra.github.io/enseignement/2016/hn1/</guid>
@@ -23,7 +20,6 @@
     <item>
       <title>Congé pour recherches</title>
       <link>https://aurelberra.github.io/enseignement/2017/crct/</link>
-      
       <pubDate>2017-01-16">16 janvier 2017</pubDate>
       <author>Aurélien Berra</author>
       <guid>https://aurelberra.github.io/enseignement/2017/crct/</guid>
@@ -34,7 +30,6 @@
     <item>
       <title>Humanités numériques 3</title>
       <link>https://aurelberra.github.io/enseignement/2017/hn3/</link>
-      
       <pubDate>2017-01-01">1 janvier 2017</pubDate>
       <author>Aurélien Berra</author>
       <guid>https://aurelberra.github.io/enseignement/2017/hn3/</guid>
@@ -45,7 +40,6 @@
     <item>
       <title>Humanités numériques 2</title>
       <link>https://aurelberra.github.io/enseignement/2016/hn2/</link>
-      
       <pubDate>2016-09-01">1 septembre 2016</pubDate>
       <author>Aurélien Berra</author>
       <guid>https://aurelberra.github.io/enseignement/2016/hn2/</guid>
@@ -55,3 +49,5 @@
     
   </channel>
 </rss>
+
+

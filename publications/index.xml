@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications sur https://aurelberra.github.io</title> 
+    <title>Publications sur Aurélien Berra</title>
     <link>https://aurelberra.github.io/publications/index.xml</link>
-    <language>fr-fr</language>
-    <author>Aurélien Berra</author>
-    <rights>Copyright (c) Aurélien Berra.</rights>
-    
-    <updated>2017-01-07">7 janvier 2017</updated>
+    <description>Publications récentes dans Publications sur Aurélien Berra</description>
+    <language>Page(&#34;Publications&#34;)</language>
+    <atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>&lt;em&gt;Un livre&lt;/em&gt;, Paris, Futuropolis, 2017</title>
       <link>https://aurelberra.github.io/publications/livre/</link>
-      
       <pubDate>2017-01-07">7 janvier 2017</pubDate>
       <author>Aurélien Berra</author>
       <guid>https://aurelberra.github.io/publications/livre/</guid>
@@ -23,7 +20,6 @@
     <item>
       <title>Un article original</title>
       <link>https://aurelberra.github.io/publications/article/</link>
-      
       <pubDate>2017-01-07">7 janvier 2017</pubDate>
       <author>Aurélien Berra</author>
       <guid>https://aurelberra.github.io/publications/article/</guid>
@@ -33,3 +29,5 @@
     
   </channel>
 </rss>
+
+

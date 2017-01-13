@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Interventions sur https://aurelberra.github.io</title> 
+    <title>Interventions sur Aurélien Berra</title>
     <link>https://aurelberra.github.io/interventions/index.xml</link>
-    <language>fr-fr</language>
-    <author>Aurélien Berra</author>
-    <rights>Copyright (c) Aurélien Berra.</rights>
-    
-    <updated>2017-02-08">8 février 2017</updated>
+    <description>Publications récentes dans Interventions sur Aurélien Berra</description>
+    <language>Page(&#34;Interventions&#34;)</language>
+    <atom:link href="/interventions/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Critique des humanités numériques suite</title>
       <link>https://aurelberra.github.io/interventions/2017/hn_critique_2/</link>
-      
       <pubDate>2017-02-08">8 février 2017</pubDate>
       <author>Aurélien Berra</author>
       <guid>https://aurelberra.github.io/interventions/2017/hn_critique_2/</guid>
@@ -23,7 +20,6 @@
     <item>
       <title>Critique des humanités numériques</title>
       <link>https://aurelberra.github.io/interventions/2017/hn_critique_1/</link>
-      
       <pubDate>2016-08-18">18 août 2016</pubDate>
       <author>Aurélien Berra</author>
       <guid>https://aurelberra.github.io/interventions/2017/hn_critique_1/</guid>
@@ -33,3 +29,5 @@
     
   </channel>
 </rss>
+
+

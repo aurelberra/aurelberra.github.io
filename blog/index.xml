@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog sur https://aurelberra.github.io</title> 
+    <title>Blog sur Aurélien Berra</title>
     <link>https://aurelberra.github.io/blog/index.xml</link>
-    <language>fr-fr</language>
-    <author>Aurélien Berra</author>
-    <rights>Copyright (c) Aurélien Berra.</rights>
-    
-    <updated>2016-12-12">12 décembre 2016</updated>
+    <description>Publications récentes dans Blog sur Aurélien Berra</description>
+    <language>Page(&#34;Blog&#34;)</language>
+    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Essai 2 et &lt;em&gt;plus intéressant&lt;/em&gt;</title>
       <link>https://aurelberra.github.io/blog/2016/12/essai-2-et-plus-int%C3%A9ressant/</link>
-      
       <pubDate>2016-12-12">12 décembre 2016</pubDate>
       <author>Aurélien Berra</author>
       <guid>https://aurelberra.github.io/blog/2016/12/essai-2-et-plus-int%C3%A9ressant/</guid>
@@ -44,7 +41,6 @@
     <item>
       <title>Essai 1 : à propos de &lt;em&gt;Lorem ipsum dolor sit amet&lt;/em&gt;</title>
       <link>https://aurelberra.github.io/blog/2016/11/essai-1--%C3%A0-propos-de-lorem-ipsum-dolor-sit-amet/</link>
-      
       <pubDate>2016-11-30">30 novembre 2016</pubDate>
       <author>Aurélien Berra</author>
       <guid>https://aurelberra.github.io/blog/2016/11/essai-1--%C3%A0-propos-de-lorem-ipsum-dolor-sit-amet/</guid>
@@ -65,3 +61,5 @@
     
   </channel>
 </rss>
+
+
