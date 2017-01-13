@@ -51,7 +51,7 @@
     </item>
     
     <item>
-      <title>&lt;em&gt;Un livre&lt;/em&gt;, Paris, Futuropolis, 2017</title>
+      <title>*Un livre*, Paris, Futuropolis, 2017</title>
       <link>https://aurelberra.github.io/publications/livre/</link>
       <author>aurelien.berra@u-paris10.fr</author>
       <pubDate>Sat, 07 Jan 2017 00:00:00</pubDate>
@@ -81,7 +81,7 @@
     </item>
     
     <item>
-      <title>Essai 2 et &lt;em&gt;plus intéressant&lt;/em&gt;</title>
+      <title>Essai 2 et *plus intéressant*</title>
       <link>https://aurelberra.github.io/blog/2016/12/essai-2-et-plus-int%C3%A9ressant/</link>
       <author>aurelien.berra@u-paris10.fr</author>
       <pubDate>Mon, 12 Dec 2016 00:00:00</pubDate>
@@ -112,7 +112,7 @@
     </item>
     
     <item>
-      <title>Essai 1 : à propos de &lt;em&gt;Lorem ipsum dolor sit amet&lt;/em&gt;</title>
+      <title>Essai 1 : à propos de *Lorem ipsum dolor sit amet*</title>
       <link>https://aurelberra.github.io/blog/2016/11/essai-1--%C3%A0-propos-de-lorem-ipsum-dolor-sit-amet/</link>
       <author>aurelien.berra@u-paris10.fr</author>
       <pubDate>Wed, 30 Nov 2016 00:00:00</pubDate>
