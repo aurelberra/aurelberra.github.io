@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog sur Aurélien Berra</title>
+    <title>Blog sur aurelberra.github.io</title>
     <link>https://aurelberra.github.io/blog/index.xml</link>
-    <description>Publications récentes dans Blog sur Aurélien Berra</description>
-    <language>fr-fr</language>
-    <author>aurelien.berra@u-paris10.fr</author>
+    <description>Publications récentes sur aurelberra.github.io</description>
+    <language>fr-FR</language>
+    <author>aurelien.berra@u-paris10.fr (Aurélien Berra)</author>
     <copyright>Copyright (c) Aurélien Berra.</copyright>
-    <lastBuildDate>Mon, 12 Dec 2016 00:00:00</lastBuildDate>
+    <lastBuildDate>Mon, 12 Dec 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Essai 2 et *plus intéressant*</title>
       <link>https://aurelberra.github.io/blog/2016/12/essai-2-et-plus-int%C3%A9ressant/</link>
       <author>aurelien.berra@u-paris10.fr (Aurélien Berra)</author>
-      <pubDate>Mon, 12 Dec 2016 00:00:00</pubDate>
+      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
       <guid>https://aurelberra.github.io/blog/2016/12/essai-2-et-plus-int%C3%A9ressant/</guid>
       <description>
 
@@ -45,7 +45,7 @@
       <title>Essai 1 : à propos de *Lorem ipsum dolor sit amet*</title>
       <link>https://aurelberra.github.io/blog/2016/11/essai-1--%C3%A0-propos-de-lorem-ipsum-dolor-sit-amet/</link>
       <author>aurelien.berra@u-paris10.fr (Aurélien Berra)</author>
-      <pubDate>Wed, 30 Nov 2016 00:00:00</pubDate>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://aurelberra.github.io/blog/2016/11/essai-1--%C3%A0-propos-de-lorem-ipsum-dolor-sit-amet/</guid>
       <description>&lt;p&gt;Eheu, &lt;code&gt;lorem ipsum&lt;/code&gt; dolor sit amet, consectetur adipiscing elit. Curabitur tempor, ipsum id tempor congue, ligula justo vehicula velit, id pharetra elit orci at nunc. Phasellus turpis dolor, gravida vel viverra vitae, tincidunt ac velit. Vestibulum quis mauris id erat rutrum ultricies eget id augue.&lt;/p&gt;
 
@@ -64,5 +64,3 @@
     
   </channel>
 </rss>
-
-
