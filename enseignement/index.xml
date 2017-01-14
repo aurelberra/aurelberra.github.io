@@ -7,14 +7,14 @@
     <language>fr-FR</language>
     <author>aurelien.berra@u-paris10.fr (Aurélien Berra)</author>
     <copyright>Copyright (c) Aurélien Berra.</copyright>
-    <lastBuildDate>Tue, 07 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Feb 2017 00:00:00</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Humanités numériques 1</title>
       <link>https://aurelberra.github.io/enseignement/2016/hn1/</link>
       <author>aurelien.berra@u-paris10.fr (Aurélien Berra)</author>
-      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Feb 2017 00:00:00</pubDate>
       <guid>https://aurelberra.github.io/enseignement/2016/hn1/</guid>
       <description>HN1 est le cours d&rsquo;introduction aux humanités numériques du master Humanités classiques et humanités numériques.</description>
     </item>
@@ -23,7 +23,7 @@
       <title>Congé pour recherches</title>
       <link>https://aurelberra.github.io/enseignement/2017/crct/</link>
       <author>aurelien.berra@u-paris10.fr (Aurélien Berra)</author>
-      <pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Jan 2017 00:00:00</pubDate>
       <guid>https://aurelberra.github.io/enseignement/2017/crct/</guid>
       <description>Je n&rsquo;enseigne pas durant le second semestre de l&rsquo;année 2016-2017, car j&rsquo;ai obtenu un congé pour recherches ou conversions thématiques (CRCT). Il en sera question sur ce site.</description>
     </item>
@@ -32,7 +32,7 @@
       <title>Humanités numériques 3</title>
       <link>https://aurelberra.github.io/enseignement/2017/hn3/</link>
       <author>aurelien.berra@u-paris10.fr (Aurélien Berra)</author>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00</pubDate>
       <guid>https://aurelberra.github.io/enseignement/2017/hn3/</guid>
       <description>HN3 est la suite du cours d&rsquo;introduction aux humanités numériques du master <em>Humanités classiques et humanités numériques</em> – et ceci est un paragraphe d&rsquo;essai.</description>
     </item>
@@ -41,7 +41,7 @@
       <title>Humanités numériques 2</title>
       <link>https://aurelberra.github.io/enseignement/2016/hn2/</link>
       <author>aurelien.berra@u-paris10.fr (Aurélien Berra)</author>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Sep 2016 00:00:00</pubDate>
       <guid>https://aurelberra.github.io/enseignement/2016/hn2/</guid>
       <description>HN2 est la suite du cours d&rsquo;introduction aux humanités numériques du master Humanités classiques et humanités numériques – et ceci est un paragraphe d&rsquo;essai.</description>
     </item>
