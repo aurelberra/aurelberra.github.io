@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Enseignement</title>
-    <link>https://aurelienberra.org/enseignement/index.xml</link>
+    <link>http://aurelienberra.org/enseignement/index.xml</link>
     <description>Publications récentes sur aurelienberra.org</description>
     <language>fr-FR</language>
     <author>aurelien.berra@u-paris10.fr (Aurélien Berra)</author>
@@ -12,37 +12,37 @@
     
     <item>
       <title>Humanités numériques 1</title>
-      <link>https://aurelienberra.org/enseignement/2016/hn1/</link>
+      <link>http://aurelienberra.org/enseignement/2016/hn1/</link>
       <author>aurelien.berra@u-paris10.fr (Aurélien Berra)</author>
       <pubDate>Tue, 07 Feb 2017 00:00:00</pubDate>
-      <guid>https://aurelienberra.org/enseignement/2016/hn1/</guid>
+      <guid>http://aurelienberra.org/enseignement/2016/hn1/</guid>
       <description>HN1 est le cours d&rsquo;introduction aux humanités numériques du master «&nbsp;Humanités classiques et humanités numériques&nbsp;».</description>
     </item>
     
     <item>
       <title>Congé pour recherches</title>
-      <link>https://aurelienberra.org/enseignement/2017/crct/</link>
+      <link>http://aurelienberra.org/enseignement/2017/crct/</link>
       <author>aurelien.berra@u-paris10.fr (Aurélien Berra)</author>
       <pubDate>Mon, 16 Jan 2017 00:00:00</pubDate>
-      <guid>https://aurelienberra.org/enseignement/2017/crct/</guid>
+      <guid>http://aurelienberra.org/enseignement/2017/crct/</guid>
       <description>Je n&rsquo;enseigne pas durant le second semestre de l&rsquo;année 2016-2017, car j&rsquo;ai obtenu un congé pour recherches ou conversions thématiques (CRCT). Il en sera question sur ce site.</description>
     </item>
     
     <item>
       <title>Humanités numériques 3</title>
-      <link>https://aurelienberra.org/enseignement/2017/hn3/</link>
+      <link>http://aurelienberra.org/enseignement/2017/hn3/</link>
       <author>aurelien.berra@u-paris10.fr (Aurélien Berra)</author>
       <pubDate>Sun, 01 Jan 2017 00:00:00</pubDate>
-      <guid>https://aurelienberra.org/enseignement/2017/hn3/</guid>
+      <guid>http://aurelienberra.org/enseignement/2017/hn3/</guid>
       <description>HN3 est la suite du cours d&rsquo;introduction aux humanités numériques du master «&nbsp;Humanités classiques et humanités numériques&nbsp;».</description>
     </item>
     
     <item>
       <title>Humanités numériques 2</title>
-      <link>https://aurelienberra.org/enseignement/2016/hn2/</link>
+      <link>http://aurelienberra.org/enseignement/2016/hn2/</link>
       <author>aurelien.berra@u-paris10.fr (Aurélien Berra)</author>
       <pubDate>Thu, 01 Sep 2016 00:00:00</pubDate>
-      <guid>https://aurelienberra.org/enseignement/2016/hn2/</guid>
+      <guid>http://aurelienberra.org/enseignement/2016/hn2/</guid>
       <description>HN2 est la suite du cours d&rsquo;introduction aux humanités numériques du master «&nbsp;Humanités classiques et humanités numériques&nbsp;».</description>
     </item>
     
