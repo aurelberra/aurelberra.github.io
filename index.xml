@@ -7,8 +7,26 @@
     <language>fr-FR</language>
     <author>aurelien.berra@parisnanterre.fr (Aurélien Berra)</author>
     <copyright>Copyright (c) Aurélien Berra.</copyright>
-    <lastBuildDate>Tue, 12 Sep 2017 00:00:00</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2018 00:00:00</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Humanités numériques 2</title>
+      <link>http://aurelienberra.org/enseignement/2018/hn2/</link>
+      <author>aurelien.berra@parisnanterre.fr (Aurélien Berra)</author>
+      <pubDate>Mon, 15 Jan 2018 00:00:00</pubDate>
+      <guid>http://aurelienberra.org/enseignement/2018/hn2/</guid>
+      <description>HN2 est le séminaire accompagnant le projet collaboratif du master «&nbsp;Humanités classiques et humanités numériques&nbsp;».</description>
+    </item>
+    
+    <item>
+      <title>Humanités numériques 4</title>
+      <link>http://aurelienberra.org/enseignement/2018/hn4/</link>
+      <author>aurelien.berra@parisnanterre.fr (Aurélien Berra)</author>
+      <pubDate>Mon, 15 Jan 2018 00:00:00</pubDate>
+      <guid>http://aurelienberra.org/enseignement/2018/hn4/</guid>
+      <description>HN4 est le séminaire accompagnant les projets individuels du master «&nbsp;Humanités classiques et humanités numériques&nbsp;».</description>
+    </item>
     
     <item>
       <title>Humanités numériques 3</title>
@@ -17,6 +35,24 @@
       <pubDate>Tue, 12 Sep 2017 00:00:00</pubDate>
       <guid>http://aurelienberra.org/enseignement/2017/hn3/</guid>
       <description>HN3 est la suite du cours d&rsquo;introduction aux humanités numériques du master «&nbsp;Humanités classiques et humanités numériques&nbsp;».</description>
+    </item>
+    
+    <item>
+      <title>La rhétorique antique et son héritage</title>
+      <link>http://aurelienberra.org/enseignement/2017/rhetorique/</link>
+      <author>aurelien.berra@parisnanterre.fr (Aurélien Berra)</author>
+      <pubDate>Tue, 12 Sep 2017 00:00:00</pubDate>
+      <guid>http://aurelienberra.org/enseignement/2017/rhetorique/</guid>
+      <description>«&nbsp;La rhétorique antique et son héritage&nbsp;», cours magistral de la licence «&nbsp;Humanités&nbsp;».</description>
+    </item>
+    
+    <item>
+      <title>Édition de textes anciens</title>
+      <link>http://aurelienberra.org/enseignement/2017/edition/</link>
+      <author>aurelien.berra@parisnanterre.fr (Aurélien Berra)</author>
+      <pubDate>Tue, 12 Sep 2017 00:00:00</pubDate>
+      <guid>http://aurelienberra.org/enseignement/2017/edition/</guid>
+      <description>Partie grecque du séminaire «&nbsp;Édition de textes anciens&nbsp;» du master «&nbsp;Humanités classiques et humanités numériques&nbsp;».</description>
     </item>
     
     <item>
@@ -119,15 +155,6 @@
 </code></pre>
 
 <p>Cras laoreet, arcu vel condimentum tempor, purus risus fringilla massa, et aliquet metus elit ut nibh.</description>
-    </item>
-    
-    <item>
-      <title>Humanités numériques 2</title>
-      <link>http://aurelienberra.org/enseignement/2016/hn2/</link>
-      <author>aurelien.berra@parisnanterre.fr (Aurélien Berra)</author>
-      <pubDate>Thu, 01 Sep 2016 00:00:00</pubDate>
-      <guid>http://aurelienberra.org/enseignement/2016/hn2/</guid>
-      <description>HN2 est la suite du cours d&rsquo;introduction aux humanités numériques du master «&nbsp;Humanités classiques et humanités numériques&nbsp;».</description>
     </item>
     
     <item>

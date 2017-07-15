@@ -3,7 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://aurelienberra.org/enseignement/2018/hn2/</loc>
+    <lastmod>2018-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aurelienberra.org/enseignement/2018/hn4/</loc>
+    <lastmod>2018-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://aurelienberra.org/enseignement/2017/hn3/</loc>
+    <lastmod>2017-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aurelienberra.org/enseignement/2017/rhetorique/</loc>
+    <lastmod>2017-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aurelienberra.org/enseignement/2017/edition/</loc>
     <lastmod>2017-09-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,11 +68,6 @@
   </url>
   
   <url>
-    <loc>http://aurelienberra.org/enseignement/2016/hn2/</loc>
-    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://aurelienberra.org/interventions/2017/hn_critique_1/</loc>
     <lastmod>2016-08-18T00:00:00+00:00</lastmod>
   </url>
@@ -70,7 +85,7 @@
   
   <url>
     <loc>http://aurelienberra.org/enseignement/</loc>
-    <lastmod>2017-09-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -88,7 +103,7 @@
   
   <url>
     <loc>http://aurelienberra.org/</loc>
-    <lastmod>2017-09-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
