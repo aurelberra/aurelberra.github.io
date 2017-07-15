@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog</title>
-    <link>http://aurelienberra.org/blog/index.xml</link>
+    <link>http://aurelienberra.org/blog/</link>
     <description>Publications récentes sur aurelienberra.org</description>
     <language>fr-FR</language>
-    <author>aurelien.berra@u-paris10.fr (Aurélien Berra)</author>
+    <author>aurelien.berra@parisnanterre.fr (Aurélien Berra)</author>
     <copyright>Copyright (c) Aurélien Berra.</copyright>
     <lastBuildDate>Mon, 12 Dec 2016 00:00:00</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
     <item>
       <title>Essai 2 et &lt;em&gt;plus intéressant&lt;/em&gt;</title>
       <link>http://aurelienberra.org/blog/2016/12/essai-2-et-plus-int%C3%A9ressant/</link>
-      <author>aurelien.berra@u-paris10.fr (Aurélien Berra)</author>
+      <author>aurelien.berra@parisnanterre.fr (Aurélien Berra)</author>
       <pubDate>Mon, 12 Dec 2016 00:00:00</pubDate>
       <guid>http://aurelienberra.org/blog/2016/12/essai-2-et-plus-int%C3%A9ressant/</guid>
       <description><h1 id="niveau-4">Niveau 4</h1>
@@ -41,7 +41,7 @@
     <item>
       <title>Essai 1 : à propos de &lt;em&gt;Lorem ipsum dolor sit amet&lt;/em&gt;</title>
       <link>http://aurelienberra.org/blog/2016/11/essai-1--%C3%A0-propos-de-lorem-ipsum-dolor-sit-amet/</link>
-      <author>aurelien.berra@u-paris10.fr (Aurélien Berra)</author>
+      <author>aurelien.berra@parisnanterre.fr (Aurélien Berra)</author>
       <pubDate>Wed, 30 Nov 2016 00:00:00</pubDate>
       <guid>http://aurelienberra.org/blog/2016/11/essai-1--%C3%A0-propos-de-lorem-ipsum-dolor-sit-amet/</guid>
       <description>Eheu, <code>lorem ipsum</code> dolor sit amet, consectetur adipiscing elit. Curabitur tempor, ipsum id tempor congue, ligula justo vehicula velit, id pharetra elit orci at nunc. Phasellus turpis dolor, gravida vel viverra vitae, tincidunt ac velit. Vestibulum quis mauris id erat rutrum ultricies eget id augue.</p>
