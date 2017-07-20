@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>http://aurelienberra.org/cv/cv/</loc>
+    <lastmod>2017-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://aurelienberra.org/blog/2017/07/ouverture-du-site/</loc>
     <lastmod>2017-07-16T00:00:00+00:00</lastmod>
   </url>
@@ -55,11 +60,6 @@
   <url>
     <loc>http://aurelienberra.org/enseignement/2017/crct/</loc>
     <lastmod>2017-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://aurelienberra.org/cv/</loc>
-    <lastmod>2017-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -85,6 +85,12 @@
   
   <url>
     <loc>http://aurelienberra.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://aurelienberra.org/cv/</loc>
+    <lastmod>2017-07-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
