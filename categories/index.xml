@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories</title>
-    <link>http://aurelienberra.org/categories/</link>
-    <description>Publications récentes sur aurelienberra.org</description>
-    <language>fr-FR</language>
-    <author>aurelien.berra@parisnanterre.fr (Aurélien Berra)</author>
-    <copyright>Copyright (c) Aurélien Berra.</copyright>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-  </channel>
+    <channel>
+        <title>Categories</title>
+        <link>http://aurelienberra.org/categories/</link>
+        <description>Publications récentes sur aurelienberra.org</description>
+        <language>fr-FR</language>
+        <author>aurelien.berra@parisnanterre.fr (Aurélien Berra)</author>
+        <copyright>Copyright (c) Aurélien Berra</copyright>
+        <lastBuildDate>Mon, 01 Jan 0001 00:00:00</lastBuildDate>
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" /> 
+    </channel>
 </rss>
