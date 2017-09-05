@@ -82,12 +82,32 @@
         </item>
         
         <item>
+            <title>Ouverture du site</title>
+            <link>http://aurelienberra.org/blog/2017/09/ouverture-du-site/</link>
+            <author>aurelien.berra@parisnanterre.fr (Aurélien Berra)</author>
+            <pubDate>Tue, 05 Sep 2017 00:00:00</pubDate>
+            <guid>http://aurelienberra.org/blog/2017/09/ouverture-du-site/</guid>
+            <description>Je déclare ce site officiellement ouvert ! Il doit son existence à un besoin et à une envie :</p>
+
+<ul>
+<li>avoir un site personnel sur lequel héberger mon <em>curriculum vitae</em>, en complément de <a href="https://cv.archives-ouvertes.fr/aurelien-berra">ma page CV sur HAL</a>, efficace mais trop fruste à mon goût, et en remplacement de celle d&rsquo;Academia.edu, où je ne mettais que des liens vers HAL et le fichier PDF dudit CV – c&rsquo;est le besoin, qui tient à une éthique professionnelle maintenant assez facile à mettre en œuvre</li>
+<li>découvrir le fonctionnement d&rsquo;un site statique, c&rsquo;est-à-dire quitter le monde pesant des <a href="https://fr.wikipedia.org/wiki/Système_de_gestion_de_contenu">CMS</a> où l&rsquo;on clique et met à jour des greffons, pour profiter plutôt de la simplicité du texte brut, choix cohérent avec mon usage du Markdown partout où je le peux – voilà l&rsquo;envie, satisfaction d&rsquo;un plaisir <em>geek</em> et ergonomique</li>
+</ul>
+
+<p>En pratique, il est facile de remonter l&rsquo;URL du CV hébergé sur ce site et de voir le site, même si je le tenais dans la pénombre. Le voici donc, dans la pleine lumière du Web et toujours en chantier.</description>
+        </item>
+        
+        <item>
             <title>Curriculum vitæ</title>
             <link>http://aurelienberra.org/cv/</link>
             <author>aurelien.berra@parisnanterre.fr (Aurélien Berra)</author>
             <pubDate>Fri, 21 Jul 2017 00:00:00</pubDate>
             <guid>http://aurelienberra.org/cv/</guid>
-            <description>Vous pouvez télécharger ici <a href="/cv/aurelien_berra_cv.pdf">mon CV</a> (PDF). Il est disponible également sur <a href="https://cv.archives-ouvertes.fr/aurelien-berra">HAL-SHS</a> et encore sur <a href="http://u-paris10.academia.edu/berra/CurriculumVitae">Academia.edu</a>. Ce qui suit est un premier essai en HTML, mais il est difficile de rivaliser avec la typographie d&rsquo;un document préparé sous LaTeX…</p>
+            <description>Vous pouvez télécharger ici la version tenue à jour de <a href="/cv/aurelien_berra_cv.pdf">mon CV</a> (PDF).</p>
+
+<p>Il est disponible également sur <a href="https://cv.archives-ouvertes.fr/aurelien-berra">HAL-SHS</a> et l&rsquo;était auparavant sur <a href="http://u-paris10.academia.edu/berra/CurriculumVitae">Academia.edu</a>.</p>
+
+<p>Ce qui suit est un premier essai en HTML, mais il est difficile de rivaliser avec la typographie d&rsquo;un document préparé sous LaTeX et je n&rsquo;ai pas résolu l&rsquo;épineux problème de la mise à jour simultanée des deux versions. Le PDF reste donc le document de référence.</p>
 
 <hr />
 
@@ -495,15 +515,6 @@
 <li>Autres langages et outils (niveaux divers)&nbsp;: expressions rationnelles, UNIX, C, Python, R, RStudio, XPath, XSLT, XQuery, SQL, Gephi, TXM, Git, GitHub, LaTeX</li>
 </ul>
 </description>
-        </item>
-        
-        <item>
-            <title>Ouverture du site</title>
-            <link>http://aurelienberra.org/blog/2017/07/ouverture-du-site/</link>
-            <author>aurelien.berra@parisnanterre.fr (Aurélien Berra)</author>
-            <pubDate>Sun, 16 Jul 2017 00:00:00</pubDate>
-            <guid>http://aurelienberra.org/blog/2017/07/ouverture-du-site/</guid>
-            <description>Ce site est &laquo;&nbsp;ouvert&nbsp;&raquo;. Que &laquo;&nbsp;dire&nbsp;&raquo; de &laquo;&nbsp;plus&nbsp;&raquo; ?</description>
         </item>
         
         <item>
