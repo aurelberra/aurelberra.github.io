@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Publications</title>
+        <link>http://aurelienberra.org/publications/</link>
+        <description>Publications récentes sur aurelienberra.org</description>
+        <language>fr-FR</language>
+        <author>aurelien.berra@parisnanterre.fr (Aurélien Berra)</author>
+        <copyright>Copyright (c) Aurélien Berra</copyright>
+        <lastBuildDate>Sat, 01 Aug 2015 00:00:00</lastBuildDate>
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" /> 
+        <item>
+            <title>Pour une histoire des humanités numériques</title>
+            <link>http://aurelienberra.org/publications/histoire_hn_critique/</link>
+            <author>aurelien.berra@parisnanterre.fr (Aurélien Berra)</author>
+            <pubDate>Sat, 01 Aug 2015 00:00:00</pubDate>
+            <guid>http://aurelienberra.org/publications/histoire_hn_critique/</guid>
+            <description>Berra Aurélien, &laquo;&nbsp;Pour une histoire des humanités numériques&nbsp;&raquo;, <em>Critique</em>, 819‑820, 2015, p. 613‑626, <a href="http://www.cairn.info/revue-critique-2015-8-p-613.htm">http://www.cairn.info/revue-critique-2015-8-p-613.htm</a> (version d&rsquo;auteur : <a href="https://halshs.archives-ouvertes.fr/halshs-01182509">https://halshs.archives-ouvertes.fr/halshs-01182509</a>).</description>
+        </item>
+        
+    </channel>
+</rss>
