@@ -15,7 +15,7 @@
             <author>aurelien.berra@parisnanterre.fr (Aurélien Berra)</author>
             <pubDate>Tue, 05 Sep 2017 00:00:00</pubDate>
             <guid>http://aurelienberra.org/blog/2017/09/ouverture-du-site/</guid>
-            <description>Je déclare ce site officiellement ouvert. Il doit son existence à un besoin et à une envie.</p>
+            <description><p>Je déclare ce site officiellement ouvert. Il doit son existence à un besoin et à une envie.</p>
 
 <p>Tout d&rsquo;abord, un besoin qui tient à une éthique professionnelle maintenant assez facile à mettre en œuvre : avoir un site personnel sur lequel héberger <a href="http://aurelienberra.org/cv/aurelien_berra_cv.pdf">mon <em>curriculum vitae</em></a>, en complément de <a href="https://cv.archives-ouvertes.fr/aurelien-berra">ma page CV sur HAL</a>, efficace mais trop fruste à mon goût, et en remplacement de celle d&rsquo;Academia.edu, où je ne mettais déjà que des liens vers HAL et le fichier PDF dudit CV.</p>
 
@@ -30,7 +30,8 @@
 <li id="fn:hugo">Une note pour dire du bien de Hugo : non seulement &laquo;&nbsp;<em>one of the most popular open-source static site generators</em>&nbsp;&raquo;, mais aussi un projet dont l&rsquo;un des principaux contributeurs a réagi en quelques heures pour introduire la transformation automatique des <em>dumb quotes</em> en guillemets français pourvus de leurs espaces insécables. Que demander de plus ?
  <a class="footnote-return" href="#fnref:hugo">⌃</a></li>
 </ol>
-</div></description>
+</div></p>
+</description>
         </item>
         
     </channel>
