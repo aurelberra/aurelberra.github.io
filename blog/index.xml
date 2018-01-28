@@ -1,38 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Blog</title>
-        <link>https://aurelienberra.org/blog/</link>
-        <description>Publications récentes sur aurelienberra.org</description>
-        <language>fr-FR</language>
-        <author>aurelien.berra@parisnanterre.fr (Aurélien Berra)</author>
-        <copyright>Copyright (c) Aurélien Berra</copyright>
-        <lastBuildDate>Tue, 05 Sep 2017 00:00:00</lastBuildDate>
-        <atom:link href="/index.xml" rel="self" type="application/rss+xml" /> 
-        <item>
-            <title>Ouverture du site</title>
-            <link>https://aurelienberra.org/blog/2017/09/ouverture-du-site/</link>
-            <author>aurelien.berra@parisnanterre.fr (Aurélien Berra)</author>
-            <pubDate>Tue, 05 Sep 2017 00:00:00</pubDate>
-            <guid>https://aurelienberra.org/blog/2017/09/ouverture-du-site/</guid>
-            <description><p>Je déclare ce site officiellement ouvert. Il doit son existence à un besoin et à une envie.</p>
-
-<p>Tout d&rsquo;abord, un besoin qui tient à une éthique professionnelle maintenant assez facile à mettre en œuvre : avoir un site personnel sur lequel héberger <a href="http://aurelienberra.org/cv/aurelien_berra_cv.pdf">mon <em>curriculum vitae</em></a>, en complément de <a href="https://cv.archives-ouvertes.fr/aurelien-berra">ma page CV sur HAL</a>, efficace mais trop fruste à mon goût, et en remplacement de celle d&rsquo;Academia.edu, où je ne mettais déjà que des liens vers HAL et le fichier PDF dudit CV.</p>
-
-<p>Ensuite, la satisfaction d&rsquo;un plaisir <em>geek</em> et ergonomique : découvrir le fonctionnement d&rsquo;un site statique (en l&rsquo;occurrence, le système est <a href="http://gohugo.io">Hugo</a><sup class="footnote-ref" id="fnref:hugo"><a rel="footnote" href="#fn:hugo">1</a></sup>), c&rsquo;est-à-dire quitter le monde pesant des <a href="https://fr.wikipedia.org/wiki/Système_de_gestion_de_contenu">CMS</a> où l&rsquo;on clique et met à jour des greffons, pour profiter plutôt de la simplicité du texte brut, choix cohérent avec mon usage du <a href="http://commonmark.org">Markdown</a> partout où je le peux.</p>
-
-<p><p>En pratique, il était facile de remonter l&rsquo;URL du CV hébergé ici et de voir le site, même si je le tenais dans la pénombre. Le voici donc, dans la pleine lumière du Web et toujours en chantier. Bienvenue !</p>
-<div class="footnotes"></p>
-
-<hr />
-
-<p><ol>
-<li id="fn:hugo">Une note pour dire du bien de Hugo : non seulement &laquo;&nbsp;<em>one of the most popular open-source static site generators</em>&nbsp;&raquo;, mais aussi un projet dont l&rsquo;un des principaux contributeurs a réagi en quelques heures pour introduire la transformation automatique des <em>dumb quotes</em> en guillemets français pourvus de leurs espaces insécables. Que demander de plus ?
- <a class="footnote-return" href="#fnref:hugo">⌃</a></li>
-</ol>
-</div></p>
-</description>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Blog on aurelienberra.org</title>
+    <link>https://aurelienberra.org/blog/</link>
+    <description>Recent content in Blog on aurelienberra.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 05 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://aurelienberra.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ouverture du site</title>
+      <link>https://aurelienberra.org/blog/2017/09/ouverture-du-site/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aurelienberra.org/blog/2017/09/ouverture-du-site/</guid>
+      <description>Je déclare ce site officiellement ouvert. Il doit son existence à un besoin et à une envie.
+Tout d&amp;rsquo;abord, un besoin qui tient à une éthique professionnelle maintenant assez facile à mettre en œuvre : avoir un site personnel sur lequel héberger mon curriculum vitae, en complément de ma page CV sur HAL, efficace mais trop fruste à mon goût, et en remplacement de celle d&amp;rsquo;Academia.edu, où je ne mettais déjà que des liens vers HAL et le fichier PDF dudit CV.</description>
+    </item>
+    
+  </channel>
 </rss>
