@@ -3,14 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://aurelienberra.org/cv/</loc>
-    <lastmod>2017-09-08T00:00:00+00:00</lastmod>
+    <loc>https://aurelienberra.org/enseignement/</loc>
+    <lastmod>2019-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aurelienberra.org/publications/</loc>
+    <lastmod>2019-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://aurelienberra.org/</loc>
-    <lastmod>2017-09-08T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aurelienberra.org/cv/</loc>
+    <lastmod>2017-09-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>

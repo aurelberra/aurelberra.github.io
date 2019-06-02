@@ -8,8 +8,26 @@
         <copyright>
             <a href="https://creativecommons.org/share-your-work/licensing-types-examples/#by">CC-BY</a>
             Aurélien Berra</copyright>
-        <lastBuildDate>Fri, 08 Sep 2017 00:00:00</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jun 2019 00:00:00</lastBuildDate>
         <atom:link href="/index.xml" rel="self" type="application/rss+xml"/>
+        
+            <item>
+                <title>Enseignement</title>
+                <link>https://aurelienberra.org/enseignement/</link>
+                <author>aurelien.berra@parisnanterre.fr (Aurélien Berra)</author>
+                <pubDate>Sun, 02 Jun 2019 00:00:00</pubDate>
+                <guid>https://aurelienberra.org/enseignement/</guid>
+                <description>Voir la <a href="https://www.parisnanterre.fr/enseignements-assures-par-aurelien-berra-422367.kjsp">liste détaillée</a> de mes cours à l’université Paris-Nanterre.</description>
+            </item>
+        
+            <item>
+                <title>Publications</title>
+                <link>https://aurelienberra.org/publications/</link>
+                <author>aurelien.berra@parisnanterre.fr (Aurélien Berra)</author>
+                <pubDate>Sun, 02 Jun 2019 00:00:00</pubDate>
+                <guid>https://aurelienberra.org/publications/</guid>
+                <description>Voir la <a href="http://aurelienberra.org/cv/">liste de publications</a> dans mon CV.</description>
+            </item>
         
             <item>
                 <title>Curriculum vitæ</title>
