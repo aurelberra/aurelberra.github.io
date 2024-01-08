@@ -5,16 +5,15 @@
     <link>https://aurelienberra.org/blog/</link>
     <description>Recent content in Blog on aurelienberra.org</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 05 Sep 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://aurelienberra.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language>
+    <lastBuildDate>Tue, 05 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://aurelienberra.org/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ouverture du site</title>
       <link>https://aurelienberra.org/blog/2017/09/ouverture-du-site/</link>
       <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://aurelienberra.org/blog/2017/09/ouverture-du-site/</guid>
-      <description>Je déclare ce site officiellement ouvert. Il doit son existence à un besoin et à une envie.
-Tout d&amp;rsquo;abord, un besoin qui tient à une éthique professionnelle maintenant assez facile à mettre en œuvre : avoir un site personnel sur lequel héberger mon curriculum vitae, en complément de ma page CV sur HAL, efficace mais trop fruste à mon goût, et en remplacement de celle d&amp;rsquo;Academia.edu, où je ne mettais déjà que des liens vers HAL et le fichier PDF dudit CV.</description>
+      <description>Je déclare ce site officiellement ouvert. Il doit son existence à un besoin et à une envie.&#xA;Tout d&amp;rsquo;abord, un besoin qui tient à une éthique professionnelle maintenant assez facile à mettre en œuvre : avoir un site personnel sur lequel héberger mon curriculum vitae, en complément de ma page CV sur HAL, efficace mais trop fruste à mon goût, et en remplacement de celle d&amp;rsquo;Academia.edu, où je ne mettais déjà que des liens vers HAL et le fichier PDF dudit CV.</description>
     </item>
-    
   </channel>
 </rss>
