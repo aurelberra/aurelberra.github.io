@@ -4,7 +4,7 @@
     <title>Blog on aurelienberra.org</title>
     <link>https://aurelienberra.org/blog/</link>
     <description>Recent content in Blog on aurelienberra.org</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Tue, 05 Sep 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://aurelienberra.org/blog/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://aurelienberra.org/blog/2017/09/ouverture-du-site/</link>
       <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
       <guid>https://aurelienberra.org/blog/2017/09/ouverture-du-site/</guid>
-      <description>Je déclare ce site officiellement ouvert. Il doit son existence à un besoin et à une envie.&#xA;Tout d&amp;rsquo;abord, un besoin qui tient à une éthique professionnelle maintenant assez facile à mettre en œuvre : avoir un site personnel sur lequel héberger mon curriculum vitae, en complément de ma page CV sur HAL, efficace mais trop fruste à mon goût, et en remplacement de celle d&amp;rsquo;Academia.edu, où je ne mettais déjà que des liens vers HAL et le fichier PDF dudit CV.</description>
+      <description>&lt;p&gt;Je déclare ce site officiellement ouvert. Il doit son existence à un besoin et à une envie.&lt;/p&gt;&#xA;&lt;p&gt;Tout d&amp;rsquo;abord, un besoin qui tient à une éthique professionnelle maintenant assez facile à mettre en œuvre : avoir un site personnel sur lequel héberger &lt;a href=&#34;http://aurelienberra.org/cv/aurelien_berra_cv.pdf&#34;&gt;mon &lt;em&gt;curriculum vitae&lt;/em&gt;&lt;/a&gt;, en complément de &lt;a href=&#34;https://cv.archives-ouvertes.fr/aurelien-berra&#34;&gt;ma page CV sur HAL&lt;/a&gt;, efficace mais trop fruste à mon goût, et en remplacement de celle d&amp;rsquo;Academia.edu, où je ne mettais déjà que des liens vers HAL et le fichier PDF dudit CV.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
